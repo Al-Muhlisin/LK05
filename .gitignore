@@ -1,0 +1,6 @@
+# Java compiled bytecode
+*.class
+
+# Optional: IDE/build artifacts
+out/
+bin/
