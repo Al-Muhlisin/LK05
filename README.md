@@ -33,7 +33,8 @@ Project ini dibuat sebagai bagian dari Latihan Kerja 05 (LK05) dengan tujuan men
 > Catatan: setiap anggota juga bertanggung jawab untuk review kode, dokumentasi, screenshot hasil, dan menyusun penjelasan singkat untuk bagian tugasnya.
 
 ## 🏗 Struktur Program
-LK05
+```
+LK05/
 ├── MedicalRecord.java
 ├── Versioned.java
 ├── Confidential.java
@@ -42,6 +43,7 @@ LK05
 ├── SecureResponse.java
 ├── IntegrationGateway.java
 └── MainSimulation.java
+```
 
 ## ⚙️ Konsep Java Generics yang Digunakan
 1️⃣ **Bounded Types**
