@@ -17,7 +17,7 @@ Solusi yang dibangun adalah satu jalur gateway generik yang aman, fleksibel, dan
 | --- | --- |
 | Aryan Zaky Prayogo | 255150207111059 |
 | Achmad Hujairi | 255150200111042 |
-| M. Hidayatulloh H. A. M | 255150201111025 |
+| M. Hidayatulloh Habib Al Muhlisin | 255150201111025 |
 | M. Ahshal Zilhamsyah | 255150200111041 |
 | Dikardo Siahaan | 255150200111040 |
 
